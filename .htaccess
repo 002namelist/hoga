@@ -1,5 +1,5 @@
 <IfModule mod_headers.c>
-    Header always set Access-Control-Allow-Origin "https://www.kiteboarding-cruise.com"
+    Header always set Access-Control-Allow-Origin "https://www.town.shodoshima.lg.jp"
     Header always set Access-Control-Allow-Methods "GET, OPTIONS"
     Header always set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept"
     Header always set Vary "Origin"
